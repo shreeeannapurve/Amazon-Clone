@@ -167,6 +167,7 @@ span {
 
 .hero-msg a {
     color: #007185;
+    cursor: pointer;
 }
 
 /* shop section */
